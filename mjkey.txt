@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 144575, type 6.
+
+Issued to Niki Amini Naieni <na357@cornell.edu>.
+
+Expires March 30, 2020.
+
+This file activates MuJoCo Pro on a single computer with id:
+WINDOWS_4FA9USG20VLB5M1HBJQ0M2L2_001038895NCZA9S4120
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+fd7ca7be57c855dd6a0eeafbd55eba36ae25823b4ec66a7e3c6b8722a17502e1
+b3a318844e3feaf436f225d385d5b8839179a973a2f12c2ae7ebeb5e470451db
+bc1c0b048388627fcf7b0727145aef59ed37bc3815798f1e700154aa39179ff7
+5c42b84805cc0fb9deb2a47d2b2a867a4011f71571f06713db38771336d818e9
+a77b6e28b2a71e99f5422a12264c4e655079eff8f47a811076fa610183fedd11
+9a4ccfe9ee61ecaa5bf2febf93d79084c8d06cf7ce4d17af1ab8c9f91ff12405
+34d642fcbaf893eb034b7595a689bac780b764b41e97fc3bc2b100dd3cc7f6bf
+a9cbe66cfca66d4abf87063fd44bb77a0fa0260fdce57757ed76bf9080333ba7
